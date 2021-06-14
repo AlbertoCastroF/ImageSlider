@@ -1,0 +1,16 @@
+{
+  "name": "auto-slider",
+  "version": "1.0.0",
+  "description": "automatic picture slider",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "slider",
+    "images",
+    "auto"
+  ],
+  "author": "Albert Castro",
+  "license": "ISC"
+}
